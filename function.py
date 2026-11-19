@@ -13,7 +13,7 @@ while True  :
   print("6. Exit")
 
   choice = int(input("Enter your choice: "))
-
+  
 
   if choice == 1:
       add_student(students)
